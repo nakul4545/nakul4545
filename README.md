@@ -1,11 +1,92 @@
-   💫 About Me:
-<p align="center"><br>  <img src="https://raw.githubusercontent.com/nakul4545/Portfolio/main/Nakul.png" width="50%" /><br></p><br><br>   👋 Hi, I'm Nakul<br><br>🚀 **AI / ML Engineer | GenAI & LLM Systems | MLOps Specialist**<br><br>I design and build **end-to-end AI systems**, specializing in **Generative AI, LLM applications, agentic workflows, and MLOps pipelines** for production-scale deployment.<br><br>   <br><br>  🧠 About Me<br><br>* 🤖 Passionate about **Artificial Intelligence, Machine Learning, and Generative AI**<br>* 🧠 Experienced in building **LLM-based applications and AI agents**<br>* ⚙️ Strong focus on **MLOps, automation, and scalable ML systems**<br>* ☁️ Hands-on with **AWS cloud infrastructure**<br>* 📊 Strong foundation in **Data Science & Software Engineering**<br>* 🧩 Regular problem solver on **LeetCode & HackerRank**<br><br>   <br><br>  🛠️ Tech Stack<br><br>    👨‍💻 Programming & Web<br><br>* Python<br>* Flask<br>* JavaScript<br>* HTML, CSS<br><br>   <br><br>    🤖 Machine Learning & AI<br><br>* Machine Learning (ML)<br>* Deep Learning (DL)<br>* Generative AI (GenAI)<br>* Large Language Models (LLMs)<br>* Prompt Engineering<br><br>   <br><br>    🧠 LLMs, GenAI & Agents<br><br>* LangChain (Chains, Agents, Tools, Memory)<br>* LLM-based application development<br>* AI Agents (Tool-using autonomous workflows)<br>* Retrieval-Augmented Generation (RAG)<br>* Vector Databases (basic integration)<br><br>   <br><br>    ⚙️ MLOps & DevOps<br><br>* MLflow<br>* Airflow<br>* DagsHub<br>* Git & GitHub Actions<br>* Jenkins<br><br>   <br><br>    ☁️ Cloud<br><br>* AWS (EC2, S3, IAM, Lambda basics)<br><br>   <br><br>  🧱 Computer Science Fundamentals<br><br>* Object-Oriented Programming (OOP)<br>* Data Structures & Algorithms (DSA)<br>* Database Management Systems (DBMS)<br>* Operating Systems (basic understanding)<br>* Computer Networks (basic understanding)<br><br>   <br><br>  🧩 Problem Solving<br><br>I actively practice algorithmic problem solving to strengthen core thinking skills:<br><br>* 🟠 LeetCode<br>* 🔵 HackerRank<br><br>Focus Areas:<br><br>* Arrays, Strings, Linked Lists<br>* Trees & Graphs<br>* Dynamic Programming<br>* Recursion & Backtracking<br><br>   <br><br>  🚀 What I Do<br><br>* Build **LLM-powered applications using LangChain**<br>* Design and deploy **AI agents for real-world automation**<br>* Develop **RAG-based systems for knowledge retrieval**<br>* Build end-to-end **ML pipelines (data → training → deployment)**<br>* Implement **CI/CD pipelines for ML systems**<br>* Deploy scalable AI systems on **AWS cloud**<br><br>   <br><br>  🌐 Connect With Me<br><br>* LinkedIn: https://www.linkedin.com/in/nakul-patil-482a911bb/<br>* Portfolio: https://github.com/nakul4545<br>* Email: nakulpatil1406@gmail.com<br><br>   <br><br>  ⚡ Fun Fact<br><br>I enjoy building systems where **AI doesn’t just predict - it reasons, plans, and acts autonomously** 🤖<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nakul4545/Portfolio/main/Nakul.png" width="50%" />
+</p>
 
+# 👋 Hi, I'm Nakul
 
-🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nakul-patil-482a911bb/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nakulpatil1406@gmail.com) 
+🚀 AI / ML Engineer | GenAI & LLM Systems | MLOps Specialist
 
-   
-[![](https://komarev.com/ghpvc/?username=nakul4545&icon=0&color=0)](https://visitcount.itsvg.in)
+I design and build end-to-end AI systems, specializing in Generative AI, LLM applications, agentic workflows, and MLOps pipelines for production-scale deployment.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🧠 About Me
+
+- 🤖 Passionate about Artificial Intelligence, Machine Learning, and Generative AI  
+- 🧠 Experienced in building LLM-based applications and AI agents  
+- ⚙️ Strong focus on MLOps, automation, and scalable ML systems  
+- ☁️ Hands-on with AWS cloud infrastructure  
+- 📊 Strong foundation in Data Science & Software Engineering  
+- 🧩 Regular problem solver on LeetCode & HackerRank  
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming & Web
+- Python  
+- Flask  
+- JavaScript  
+- HTML, CSS  
+
+### Machine Learning & AI
+- Machine Learning (ML)  
+- Deep Learning (DL)  
+- Generative AI (GenAI)  
+- Large Language Models (LLMs)  
+- Prompt Engineering  
+
+### LLMs, GenAI & Agents
+- LangChain (Chains, Agents, Tools, Memory)  
+- AI Agents  
+- RAG (Retrieval-Augmented Generation)  
+- Vector Databases (basic integration)  
+
+### MLOps & DevOps
+- MLflow  
+- Airflow  
+- DagsHub  
+- Git & GitHub Actions  
+- Jenkins  
+
+### Cloud
+- AWS (EC2, S3, IAM, Lambda basics)  
+
+---
+
+## 🧱 Computer Science Fundamentals
+- OOP  
+- DSA  
+- DBMS  
+- Operating Systems  
+- Computer Networks  
+
+---
+
+## 🧩 Problem Solving
+- LeetCode  
+- HackerRank  
+
+Focus:
+Arrays, Strings, Trees, Graphs, DP, Recursion, Backtracking
+
+---
+
+## 🚀 What I Do
+- Build LLM applications using LangChain  
+- Design AI agents for automation  
+- Build RAG-based systems  
+- Develop ML pipelines end-to-end  
+- Deploy models using CI/CD  
+- Work with AWS for scalable systems  
+
+---
+
+## 🌐 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/nakul-patil-482a911bb/  
+- Email: nakulpatil1406@gmail.com  
+
+---
+
+## ⚡ Fun Fact
+I enjoy building systems where AI doesn’t just predict — it reasons, plans, and acts autonomously 🤖
